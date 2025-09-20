@@ -14,5 +14,10 @@ The project is divided into three files to showcase the concept of modular progr
 2. **customer.c**-Contains the implementation of customer-related functions such as adding and viewing customers.
 3. **customer.h**-The header file that defines the structure of a customer and declares function prototypes for use across files.
 ## How to run
-
+1. Open **Dev-C++**.
+2. Go to **File → New → Project → Console Application → C Project**.
+3. Add your ```.c``` files (```main.c``` and ```customer.c```) to the project:
+   * Project **→ Add to Project → select files**
+4. Click Compile & Run (F11 or Ctrl+F10 depending on version).
+5. Your console menu will appear, and you can interact with your program.
 ## Output
